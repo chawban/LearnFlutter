@@ -6,5 +6,4 @@ void main() {
 
   Animal cat = Animal('Miew', 5);
   cat.displayInfo();
-}
- 
+} 

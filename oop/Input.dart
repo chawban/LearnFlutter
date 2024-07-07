@@ -10,6 +10,4 @@ void main() {
   print("The car is  ${car}");
   print("End of main");
 }
-
-
-  
+ 

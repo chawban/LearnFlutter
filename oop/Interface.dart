@@ -24,5 +24,4 @@ void main() {
 
   myShape = Square();
   myShape.draw(); // Output: Drawing a square
-}
- 
+} 

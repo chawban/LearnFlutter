@@ -5,4 +5,3 @@ void main() {
 void greet(String name, int age) {
   print('สวัสดีคุณ$name \nคุณอายุ $age ปี.');
 }
- 

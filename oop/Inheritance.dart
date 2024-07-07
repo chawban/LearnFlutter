@@ -14,5 +14,4 @@ void main() {
   Dog dog = Dog('Buddy', 3, 'Golden Retriever');
   dog.displayInfo();
   dog.displayBreed();
-}
-  
+} 
