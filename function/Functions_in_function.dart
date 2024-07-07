@@ -9,3 +9,4 @@ void show(int num, add) {
     print(i * add);
   }
 }
+ 

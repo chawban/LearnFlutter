@@ -6,3 +6,4 @@ void sum1(int m, int n) {
 int sum2(int a, int b, int c) {
   return a + b + c;
 }
+

@@ -7,3 +7,4 @@ void main() {
 void greet({required String name, int age = 18}) {
   print('สวัสดีคุณ$name  คุณอายุ $age ปี.');
 }
+ 
