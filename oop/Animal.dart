@@ -6,8 +6,5 @@ class Animal {
 
   void displayInfo() {
     print('ชือ่: $name, อายุ: $age');
-    
   }
 }
- 
- 
