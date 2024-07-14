@@ -11,9 +11,10 @@ class Animal {
 }
 
 void main() {
-  Animal dog = Animal('Buddy', 3);
-  dog.displayInfo();
+  //Animal dog = Animal('Buddy', 3);
+  //dog.displayInfo();
 
-  Animal cat = Animal('Miew', 5);
-  cat.displayInfo();
+  Animal cat = new Animal('Miew', 5);
+  print(cat.name);
+  //cat.displayInfo();
 }
